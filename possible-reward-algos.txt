@@ -1,0 +1,10 @@
+POW - Easiest to implement and the most tried and true. If we decide to go this route the following considerations must be addressed
+* Which algorithm will be use (SHA, Scrypt, Cryptonite, etc)
+* What is the reward scheme (50 tokens, 25, 12.5, does it halve, third, etc, and how much time)
+* Total allocation && will there be premining if so what percentage
+
+POS - If we decide on POS we have to consider the following
+* How will be do block selection (randomized block selection vs coin-age based selection vs something brand new)
+* Will we run masternodes?
+
+On a personal note I lean towards POW 
